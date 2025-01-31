@@ -59,17 +59,4 @@ streamlit run streamlitGPT.py
 - **OpenAI API:** A API do ChatGPT é consumida para gerar respostas. As requisições para a API são feitas com a chave configurada no arquivo `secrets.toml`.
 - **Arquitetura:** O projeto utiliza Python, com o código principal implementado em `streamlitGPT.py`. A aplicação é construída de forma modular para fácil expansão e customização.
 
-## Contribuindo
-
-Se você deseja contribuir com o projeto, siga os passos abaixo:
-
-1. Fork este repositório.
-2. Crie uma branch para sua contribuição (`git checkout -b minha-nova-funcionalidade`).
-3. Faça as modificações necessárias.
-4. Faça o commit das suas mudanças (`git commit -am 'Adicionando nova funcionalidade'`).
-5. Envie as mudanças para o repositório remoto (`git push origin minha-nova-funcionalidade`).
-6. Crie um Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+## Feito em uma aula da Rocketseat
