@@ -64,3 +64,4 @@ streamlit run streamlitGPT.py
 - **Arquitetura:** O projeto utiliza Python, com o código principal implementado em `streamlitGPT.py`. A aplicação é construída de forma modular para fácil expansão e customização.
 
 ## Feito em uma aula da Rocketseat
+![image](https://github.com/user-attachments/assets/28ff095f-7105-4eed-913e-c17bea60fe19)
