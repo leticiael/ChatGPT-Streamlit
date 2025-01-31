@@ -1,4 +1,4 @@
-# ChatGPT Streamlit
+# SaaSAppointment
 
 Este projeto cria uma interface interativa com o modelo ChatGPT utilizando o Streamlit, permitindo que os usuários façam perguntas e recebam respostas em tempo real. Neste caso, o chatbot é utilizado para a marcação de consultas, com a restrição de não aceitar agendamentos para NotreDame.
 
