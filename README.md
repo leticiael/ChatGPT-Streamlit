@@ -1,12 +1,17 @@
 # ChatGPT Streamlit
 
-Este projeto cria uma interface interativa com o modelo ChatGPT utilizando o Streamlit, permitindo que os usuários façam perguntas e recebam respostas em tempo real.
+Este projeto cria uma interface interativa com o modelo ChatGPT utilizando o Streamlit, permitindo que os usuários façam perguntas e recebam respostas em tempo real. Neste caso, o chatbot é utilizado para a marcação de consultas, com a restrição de não aceitar agendamentos para NotreDame.
+
 
 ## Funcionalidades
 
-- Interface simples e interativa com Streamlit.
-- Consumo da API do ChatGPT para gerar respostas.
-- Personalizável para adicionar novas funcionalidades ou melhorar a interação.
+Interface simples e interativa com Streamlit.
+
+Consumo da API do ChatGPT para gerar respostas.
+
+Personalizável para adicionar novas funcionalidades ou melhorar a interação.
+
+Restrição para não aceitar marcações para NotreDame.
 
 ## Requisitos
 
