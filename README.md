@@ -25,8 +25,7 @@ Antes de rodar o projeto, instale as dependências necessárias:
 
 Clone este repositório:
 
-git clone https://github.com/leticiael/ChatGPT-Streamlit.git
-
+git clone https://github.com/leticiael/SaaSAppointment.git
 Instale as dependências do projeto:
 
 pip install -r requirements.txt
